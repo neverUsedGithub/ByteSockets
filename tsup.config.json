@@ -1,0 +1,5 @@
+{
+    "entry": ["src"],
+    "format": ["esm", "cjs"],
+    "clean": true
+}
